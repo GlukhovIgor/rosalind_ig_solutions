@@ -11,5 +11,6 @@ rosalind id - igorglukhov
 | [ba2f](ba2f.ipynb)  | Implement RandomizedMotifSearch  |
 | [ba3j](ba3j.ipynb)  | Reconstruct a String from its Paired Composition  |
 | [ba5j](ba5j.ipynb)  | Align Two Strings Using Affine Gap Penalties  |
+| [ba6d](ba6d.ipynb)  | Find a Shortest Transformation of One Genome into Another by 2-Breaks  |
 
 Repo also includes sample_data folder with only train examples for solution testing
