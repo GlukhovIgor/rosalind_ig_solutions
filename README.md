@@ -14,5 +14,6 @@ rosalind id - igorglukhov
 | [ba6d](ba6d.ipynb)  | Find a Shortest Transformation of One Genome into Another by 2-Breaks  |
 | [ba7c](ba7c.ipynb)  | Implement AdditivePhylogeny  |
 | [ba9h](ba9h.ipynb)  | Pattern Matching with the Suffix Array  |
+| [ba10c](ba10c.ipynb)  | Implement the Viterbi Algorithm  |
 
 Repo also includes sample_data folder with only train examples for solution testing
